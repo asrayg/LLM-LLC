@@ -1,0 +1,191 @@
+What Is an LLC?
+An LLC, is a type of legal entity that U.S. business owners can select for the operation of their enterprise. Creating an LLC protects an individual’s or group’s personal assets in case of legal trouble or bankruptcy. It also allows for flexible taxation options, as not all businesses operate in the same way. Some may elect for taxation as a sole proprietorship, but others may be taxed as a corporation. Consult a tax advisor to determine the best option for your LLC.
+
+
+How To Set Up an LLC
+Use this seven-step guide to start an LLC today. Note that there are differences in laws and processes from state to state. Browse our state LLC formation guides for information specific to your state.
+
+Decide on a Business Name Marketing may be at the top of your mind as you consider names for your business. And while it’s important to choose the right name for branding purposes, your business name must also meet state law requirements.
+
+In general, state laws won’t allow you to choose a business name that’s already being used by another business in your state. Most states also prohibit certain words that might imply you’re in a certain business, such as insurance or banking. You’ll probably need to include some version of “LLC” or “limited liability company” at the end of your business name.
+
+You can review your state’s LLC naming requirements and find out if the name you want is available by visiting the website of the state agency responsible for business filings (usually the Secretary of State) and doing a name search.
+
+Designate a Registered Agent Every state requires LLCs to have a registered agent. A registered agent is someone who receives official or legal documents (such as subpoenas) on behalf of the LLC. Once received, the registered agent then passes on these documents to the LLC.
+
+Anyone who is at least 18 years old can be a registered agent—and you’re allowed to name yourself or an employee. However, the agent must be available at an address within your state during normal business hours. You can also designate a company that provides registered agent services. This will come at a fee, of course; pricing for registered agents may cost more than a hundred dollars per year.
+
+Should I Be My Own Registered Agent?
+
+You can legally act as your registered agent in every state. However, the availability of this option doesn’t automatically make it suitable for everyone. If you decide to act as your LLC’s registered agent, you should know that your name and address will soon become a matter of public record.
+
+You must receive and handle crucial legal documents or notices as your LLC’s registered agent. If you are not as knowledgeable about local laws and believe you would struggle to manage this type of paperwork, acting as your own agent may not be best, even if the goal is to save money.
+
+Carefully consider your options and perhaps even consult with a lawyer or professional agency before becoming your LLC’s registered agent.
+
+Get a Copy of Your State’s LLC Articles of Organization Form
+To establish your LLC as a legal entity, you’ll file a document with the state agency that handles business filings in your state. In most states, this document is called the articles of organization, but some states use a different name, such as a certificate of formation. Each state has a form you can use. To find your state’s form, go to the same website you used for business name research.
+
+Prepare the LLC Articles of Organization Form
+Each state lists its specific requirements and procedures for those trying to form an LLC. Basic information you’ll need to provide includes:
+
+Your business name
+The address of your principal place of business
+The purpose of the business
+The way your LLC will be managed
+Contact information for the registered agent (and in some states, the agent’s signature)
+The duration of the LLC
+Once these steps are complete, one or more business owners or organizers will need to sign the form.
+
+Some states, such as Nebraska and New York, require you to publish a notice in the newspaper indicating your desire to register your LLC. This step must be completed before filing the articles of organization.
+
+File the Articles of Organization
+Check your articles of organization carefully before submitting them to your state. You’ll also need to pay a filing fee, which varies depending on the state where you’re forming your business.
+
+When your formation documents are approved, you’ll be issued a certificate by the state to indicate your LLC is formally registered. Use it for other necessary tasks such as setting up a business bank account and getting a tax ID number.
+
+Create an Operating Agreement
+An operating agreement contains the details of the financial, legal and management rights of all members of the LLC. More specifically, it can include how profits will be distributed, how members leave the LLC and who contributes capital for the business. In essence, it should contain all relevant information pertaining to the operations of your LLC.
+
+Many states don’t require an operating agreement, but that doesn’t mean you don’t need to craft one. LLCs with more than one member or partner will want to create one to ensure everyone agrees on their rights and responsibilities. Even solo business owners benefit from outlining the details in writing.
+
+Crafting your own operating agreement is one option, especially for single-member LLCs. And there are plenty of free templates online to get you started. For more complex situations such as LLCs with multiple owners, hiring an experienced attorney may be well worth the expense.
+
+Keep Your LLC Active
+Setting up your LLC is only the start. Once it’s formed, you’ll need to ensure your business remains in good standing with your state. Again, refer to your state’s business filing website for current information on how to do so. You may need to file an annual report that updates information pertaining to your LLC and pay an annual filing fee.
+
+Other Important Tasks When Creating an LLC
+Alongside knowing how to start an LLC, there are a few key details to handle that contribute to the success of the new entity or which may serve as additional requirements for running your business.
+
+Obtain Business Licenses and Permits
+In addition to documents for establishing your LLC, you likely need to complete forms and submit fees related to business licenses and permits. This information is likely available from the same office or on the official website as part of the list of business forms and fee schedules.
+
+Confirm the types of licenses and fees your business needs to operate legally within your state. Be mindful of important deadlines, as you will likely have to apply to renew your license or permit periodically. Failing to meet renewal requirements could cause your LLC to lose its status as a legally recognized business.
+
+Get an Employer Identification Number (EIN)
+Obtaining an EIN is crucial for anyone seeking to start an LLC. First, it is an important means of separating your business entity and assets from your own finances. Additionally, banks often require an EIN when opening a business account for your LLC. Moreover, for some businesses, an EIN is mandatory. You should get your EIN as soon as you set up your new company.
+
+Divide Business and Personal Assets
+As mentioned, specific actions help separate your private assets from those linked to your business. Having an EIN and getting a business bank account are two common ways to begin this process.
+
+One related concern among LLC owners and members is how to pay themselves. Typically, this entails withdrawals from the business account associated with your LLC. Such a withdrawal would have to be labeled an “owner’s draw.” It allows you to treat yourself as an employee paid by the business, avoiding the issues raised by spending company money for private use.
+
+Register Your Business in Other States
+You may register your business in as many different states as you want. Additionally, the state where you choose to establish your domestic or in-state entity can be somewhere other than where you live. You can set up your foreign or out-of-state entity if you have a registered agent within that state.
+
+Creating a foreign LLC requires first establishing your business in a different state. If, for example, you originally incorporated your LLC in Delaware but wish to operate in Texas, you need to submit Form 304 or an Application for Registration of a Foreign Limited Liability Company to the Texas Secretary of State. Often, you must also provide a certificate of good standing and additional documentation to clear the way for registering your business in other states.
+
+Why Form an LLC?
+LLCs are popular for entrepreneurs and groups seeking to launch a promising new business venture. Some common reasons why people elect to form LLCs include:
+
+Low startup cost: Often, an LLC costs less to establish and run than a corporation. In some states, the fees are less than $100. LLCs are an ideal business structure for those wanting to start a company without needing to spend a lot of money.
+Tax-related benefits: LLCs are unique in that they can be treated as pass-through entities and claimed on personal taxes, even as business assets get separated from one’s finances. Many LLC owners prefer this option as it helps avoid the possibility of double taxation. That said, LLCs may be treated as a sole proprietorship, partnership, C-corporation (C-corp) or S-corporation (S-corp) for tax purposes. Learn more about LLC tax benefits.
+Liability shielding: As the name implies, running an LLC provides members and owners with some liability protection. For instance, successfully designating the business’s assets protects members’ assets if the company gets sued.
+Learning how to start an LLC isn’t too complex. There are even companies available to help you complete the paperwork and even handle yearly obligations on your behalf, such as annual reports.
+
+Types of LLCs To Consider
+When determining how to start an LLC, there are several types of LLCs to choose from; knowing the LLC structures available is essential for selecting a business model that most closely aligns with the nature of your company and how you intend for it to operate. These LLC structures include:
+
+Single-member LLC: This LLC is owned and operated by a single person. While similar to a sole proprietorship, this LLC provides additional tax benefits and liability shielding.
+Multi-member LLC: Standard LLCs with more than one member, often divided into manager-managed or member-managed entities.
+L3C: These entities, also known as “low-profit liability companies,” act as a bridge between nonprofit LLCs and for-profit LLCs where the business cause remains the primary focus rather than earnings.
+Series LLC: Series LLCs are tiered business structures where the topmost LLC owns a series of lower-tiered LLCs through limitless segregation. Each LLC in the series operates mostly independently of one another; their assets are also primarily separated.
+PLLC: A specialized LLC, this business formation type is only available to certain licensed professionals.
+Restricted LLC: Restricted LLCs are not taxed during the first 10 years of formation. Likewise, they cannot make distributions to members. It must be stated in the articles of organization that the LLC will be restricted.
+Uncommon: Anonymous LLC
+There isn’t a legal designation for this type of entity. Instead, an LLC gets deemed “anonymous” when the state does not publicly identify its owner. Much about business formation is a matter of public record, and there may be a reason someone would want to try to keep as much of their information private as possible. For instance, a single-member LLC owner may operate out of their home but may not want this fact to be a matter of public knowledge.
+
+Most states currently do not allow LLCs to get created anonymously. The option is presently limited to Delaware, Nevada, New Mexico and Wyoming.
+
+How Much Does an LLC Cost?
+The cost to form an LLC depends on the state where it is created. You could pay as little as $40 or as much as $500 to file your LLC paperwork. That does not include other associated costs, such as paying to reserve a business name or expediting the process. You may also need to buy business licenses or permits for your LLC.
+
+Moreover, when determining the cost of an LLC, it is vital to consider factors beyond the basic paperwork to form the business. That includes annual obligations such as registered agent fees and annual reports.
+
+LLC vs. Other Business Types
+Many entrepreneurs and aspiring business owners choose to form an LLC because it is among the most cost-effective and streamlined ways to get your company off the ground. Yet, several other business types may be worth considering. Each option has its advantages and setbacks but may be worth considering.
+
+Sole Proprietorship
+A sole proprietorship is the most simple method of business operation. In this case, an individual engages in business without establishing a formal organization. You may act as a sole proprietor under your name or a pseudonym; if the latter, you would need to submit “doing business as” or DBA paperwork to the state, county and sometimes municipal government.
+
+The owner of a sole proprietorship reports business income and earnings on their personal tax returns. Be prepared to pay a self-employment tax, which as of 2023 is 15.3%. Unlike LLCs, sole proprietors take on all risks and have no liability protection. They also lack the flexibility to choose between operating as a pass-through business entity or as a corporation. A sole proprietorship may be a good starting point for an individual, but they might later consider creating a single-member LLC.
+
+Partnership
+A partnership is a business model established when two or more people join together to establish a for-profit company. You may choose to establish three types of partnerships: a general partnership, limited partnership or a limited liability partnership.
+
+In a general partnership, everyone has complete control and equally unlimited liability. This differs from a limited partnership, where one member assumes complete control of the day-to-day operations and others have limited control and liability. With an LLP, all partners have limited liability. As with a partnership, you and your partner or partners may be able to operate under a DBA as long as you complete the necessary paperwork, although some states may require you to register your partnership.
+
+A partnership does not pay income tax, as it is a “pass-through” entity. That means at tax time, each partner reports their share of the profits and losses on their returns.
+
+Corporation
+One can form and operate C, S, B, and closed corporations within the United States (depending on the state’s options). While LLCs provide various forms of flexibility, corporation structures are more rigid by comparison.
+
+C-Corps
+
+A C-corp is the most general form of this business model. It is recognized as a separate tax-paying entity. Along with an LLC, there is some limited liability protection.
+
+Corporation owners are known as shareholders, and the level of ownership is reflected in the percentage of company shares each person owns.
+
+S-Corps
+
+S-corp and C-corp businesses primarily differ in how they are taxed. Unlike a standard corporation, an S-corp is treated as a “pass-through” entity exempt from federal income taxes. Instead, S-corp shareholders are taxed individually. With this model, it is possible for shareholders to cancel out profits with losses accumulated elsewhere.
+
+B Corporations (B-corps)
+
+In more recent years, a growing number of companies have chosen to operate as B-corps. B-corp formation means these businesses receive certification through a qualifying third party or state-level recognition of their ability to create social good. Often, this relates to employment, their local community or the environment.
+
+B-corps stand apart from other corporations regarding mission and purpose; the person or group behind these entities prioritizes running them as ethically and transparently as possible. In some states, B-corps must submit annual benefits reports demonstrating their contributions to the public good to maintain their status.
+
+Closed Corporations
+
+Closed corporations lack a traditional corporate structure. Instead of publicly traded shares, the company is run by a private group of shareholders; no board of directors is required.
+
+Nonprofit Organization
+A nonprofit organization is an entity that exists for reasons wholly separate from income generation, and no part of the organization’s earnings may be distributed to members, officers or directors. These organizations may be classified in different forms; for example, you may set up a nonprofit corporation or partnership. Some common examples of nonprofits include churches, public schools, political organizations, volunteer services and labor unions.
+
+One of the better-known benefits of operating a nonprofit is tax exemption status, but to maintain this, the organization must adhere to specific requirements. For instance, the IRS notes that such an entity can lose its tax-exempt status by actively taking steps to earn private income or through political lobbying behaviors.
+
+Cooperative
+A cooperative, or co-op, is a type of business owned and controlled by the people and uses its services to meet their needs. Cooperatives typically operate in the insurance, credit, healthcare, telephone, electric, housing, transportation, child care and utility industries. Farmers often use cooperatives to both market and process their crops and livestock.
+
+According to the United States Department of Agriculture, as of 2022, more than 30,000 cooperatives currently operate within the country. They are thought to generate more than $650 billion annually.
+
+Cooperatives are not tax-exempt entities; they are subject to real property, sales, employment and personal property taxation and taxes related to unemployment compensation, workers’ compensation, various utility services, etc.
+
+
+How Is an LLC Taxed?
+How an LLC gets taxed will depend on the state and how the owner elects its tax status. The LLC is claimed on your personal taxes if treated as a pass-through entity. If elected to be taxed as a partnership or corporation, there will likely be additional taxes to be aware of. Fifteen states have franchise taxes that impact LLC owners.
+
+When forming your LLC, you should be sure to determine your tax obligations, as paying taxes is important for keeping your business in good standing.
+
+If you’d like to learn more about which states may be more advantageous to start your LLC, explore our guide to the Best States to Form an LLC.
+
+Frequently Asked Questions (FAQs)
+Do I need an LLC for my business?
+That will entirely depend on your small business and its needs. If you are a freelancer or solopreneur, you may do fine with a simple sole proprietorship.
+
+But an LLC offers a number of advantages, such as protection as an individual from legal and financial problems that your company may face. LLCs also have more choices when it comes to the way they’re taxed. Be sure to do your research and get legal and tax advice before forming any sort of business.
+
+Is it possible to set up an LLC for free?
+While the cost to register an LLC varies by state, there is a fee to register in every state. So, while there are some companies that advertise “free” LLC formation, what this means is that the company will fill out the LLC paperwork for you for free. But again, you will still be responsible for the state’s filing fee.
+
+How long does it take to get an LLC?
+If filed online, it may be possible to get your LLC formed in two to four business days. Otherwise, LLC papers submitted by mail often take two to several weeks to process.
+
+Do I need a registered agent for an LLC?
+While each LLC is required to have a registered agent, it is possible to act as your own agent or appoint an LLC member to the role. Otherwise, you may hire an individual or company to act as your agent.
+
+Can I create a joint account with an LLC?
+It is common for multi-member LLCs to open joint bank accounts to which all members have equal access.
+
+How do I file taxes for an LLC?
+For LLCs treated as pass-through entities, one would file documents for the business along with personal tax forms. You will need to submit additional paperwork if the LLC is treated as a corporation. For instance, the IRS would require Form 8832 for LLCs taxed as corporations.
+
+What is an LLC operating agreement?
+An LLC operating agreement is a document that determines business and financial decisions and key member roles. Some states require operating agreements before approving an LLC’s formation.
+
+Can an LLC own another LLC?
+An LLC can own another LLC, and there are multiple ways to make this happen. When filing paperwork, a preexisting LLC may be deemed the owner of the new LLC. Alternatively, an LLC member may sell the entity to someone else. A series LLC is a tiered business structure where the topmost LLC owns the other lower-tiered businesses.
+
+Can an LLC be a nonprofit?
+An LLC can be a nonprofit, provided it meets the requirements laid out within the state. Registering an L3C, or “low profit” LLC, may also be possible in some locations. What's the difference between an LLC and a corporation? An LLC is owned by members, while shareholders own corporations. Corporations are often subject to additional taxes, while LLCs may be claimed on one’s personal tax documents. Can I have multiple businesses under one LLC? It may be possible to have multiple businesses under one LLC if you set up the first entity as a holding company, after which future LLC ventures are held under the first LLC. Can a trust own an LLC? Yes, a trust can own an LLC. For instance, the trust can be named as a member in the articles of organization. Do I need a DBA for my LLC? Most LLCs do not require a DBA (doing business as). An exception would be foreign LLCs that cannot use their original name within a state, as another company has already registered it. In that case, the company would need a DBA to operate. Do I need a physical address for my LLC? An LLC isn’t legally required to have a physical address except for its registered agent, who accepts important documents such as tax papers or legal notices on behalf of the business.
